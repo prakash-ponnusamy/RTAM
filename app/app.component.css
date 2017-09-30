@@ -1,0 +1,16 @@
+li {
+    font-size: large;
+}
+
+div.panel-heading {
+    font-size: x-large;
+}
+
+
+.masthead {
+    position: relative;
+    background-image: url("assets/images/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+    
+}
